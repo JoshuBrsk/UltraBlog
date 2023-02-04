@@ -7,7 +7,7 @@
 ### Hi this is my first project
 
 
-And **was made for practicing html, css and git** so that is the reason why everything looks too awful
+And **was made by me for practicing html, css and git** so that is the reason why everything looks too awful
 
 
 ------------
